@@ -1,0 +1,146 @@
+[
+  {
+    "title": "New Year's Day",
+    "date": "2024-01-01",
+    "category": "Festival",
+    "description": "Happy New Year!"
+  },
+  {
+    "title": "Pongal",
+    "date": "2024-01-15",
+    "category": "Festival",
+    "description": "Harvest festival"
+  },
+  {
+    "title": "Republic Day",
+    "date": "2024-01-26",
+    "category": "Special",
+    "description": "Indian Republic Day"
+  },
+  {
+    "title": "Vasant Panchami",
+    "date": "2024-02-14",
+    "category": "Festival",
+    "description": "Festival of Spring"
+  },
+  {
+    "title": "Maha Shivaratri",
+    "date": "2024-03-08",
+    "category": "Festival",
+    "description": "Night of Shiva"
+  },
+  {
+    "title": "Holi",
+    "date": "2024-03-25",
+    "category": "Festival",
+    "description": "Festival of Colors"
+  },
+  {
+    "title": "Good Friday",
+    "date": "2024-03-29",
+    "category": "Special",
+    "description": "Christian holiday"
+  },
+  {
+    "title": "Ambedkar Jayanti",
+    "date": "2024-04-14",
+    "category": "Special",
+    "description": "Dr. Ambedkar's Birthday"
+  },
+  {
+    "title": "Eid al-Fitr",
+    "date": "2024-04-11",
+    "category": "Festival",
+    "description": "End of Ramadan"
+  },
+  {
+    "title": "May Day",
+    "date": "2024-05-01",
+    "category": "Special",
+    "description": "Labour Day"
+  },
+  {
+    "title": "Mother's Day",
+    "date": "2024-05-12",
+    "category": "Special",
+    "description": "Mother's Day"
+  },
+  {
+    "title": "World Environment Day",
+    "date": "2024-06-05",
+    "category": "Special",
+    "description": "Environment Day"
+  },
+  {
+    "title": "Father's Day",
+    "date": "2025-06-16",
+    "category": "Special",
+    "description": "Father's Day"
+  },
+  {
+    "title": "Rath Yatra",
+    "date": "2024-07-07",
+    "category": "Festival",
+    "description": "Chariot Festival"
+  },
+  {
+    "title": "Guru Purnima",
+    "date": "2024-07-21",
+    "category": "Festival",
+    "description": "Teacher's Day"
+  },
+  {
+    "title": "Independence Day",
+    "date": "2024-08-15",
+    "category": "Special",
+    "description": "Indian Independence Day"
+  },
+  {
+    "title": "Raksha Bandhan",
+    "date": "2024-08-19",
+    "category": "Festival",
+    "description": "Brother-Sister Festival"
+  },
+  {
+    "title": "Janmashtami",
+    "date": "2024-08-26",
+    "category": "Festival",
+    "description": "Krishna's Birthday"
+  },
+  {
+    "title": "Ganesh Chaturthi",
+    "date": "2024-09-07",
+    "category": "Festival",
+    "description": "Ganesh Festival"
+  },
+  {
+    "title": "Gandhi Jayanti",
+    "date": "2024-10-02",
+    "category": "Special",
+    "description": "Mahatma Gandhi's Birthday"
+  },
+  {
+    "title": "Dussehra",
+    "date": "2024-10-12",
+    "category": "Festival",
+    "description": "Vijayadashami"
+  },
+  {
+    "title": "Diwali",
+    "date": "2024-11-01",
+    "category": "Festival",
+    "description": "Festival of Lights"
+  },
+  {
+    "title": "Children's Day",
+    "date": "2024-11-14",
+    "category": "Special",
+    "description": "Children's Day"
+  },
+  {
+    "title": "Christmas",
+    "date": "2024-12-25",
+    "category": "Festival",
+    "description": "Christmas Day"
+  }
+]

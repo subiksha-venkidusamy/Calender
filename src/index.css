@@ -1,6 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   border: 0;
+}
+
+body {
+  background: linear-gradient(135deg, #e0e7ff 0%, #f3e8ff 100%);
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
 }
